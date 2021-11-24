@@ -82,16 +82,6 @@
 	  <td><font size="2">DateTime:</font></td>
 	  <td><font size="2">
 
-//時刻データを取得して変数に格納する
-//変数は"time"とする
-var time= new Date();
-
-//時・分・秒を取得
-var hour = time.getHours();
-var minute = time.getMinutes();
-var second = time.getSeconds();
-
-document.write(hour+"時",+minute+"分"+second+"秒");
 
 </font></td>
 	</tr></tbody></table>
